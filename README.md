@@ -1,5 +1,16 @@
-# Vue 3 + TypeScript + Vite
+# 📝 Tasks App
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+간단한 **반응형 To-Do 리스트 앱**입니다.  
+Vue 3 + Composition API를 학습하면서 제작한 작은 프로젝트로, 
+Vue 프레임워크를 배워보기 위하여 여러 소스들을 참고하고 공부하며 만들었습니다.
+할 일 추가 / 완료 / 삭제 기능을 제공합니다.
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+📱 **모바일 & 데스크탑 반응형 UI 지원**
+
+---
+
+## 🚀 기술 스택
+- Vue 3
+- Composition API
+- JavaScript (ES6+)
+- CSS Responsive Layout
